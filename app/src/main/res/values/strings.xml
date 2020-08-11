@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Minimal</string>
+    <string name="bluetooth_list">Bluetooth List</string>
+    <string name="bluetooth_address">Bluetooth Address</string>
+    <string name="qr_print">QR Print</string>
 </resources>
